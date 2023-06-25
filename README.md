@@ -1,10 +1,10 @@
 👋 Hi, I'm Farid. An engineer and data science developer from Canada 🇨🇦  
 🔭 I’m currently working on: [Building Transformer Models with Attention](https://github.com/artificialfintelligence/xformers_w_attn)  
-🤝 I'm currently collaborating on: [Human Emotion Detection](https://github.com/nihonlanguageprocessing/human_emotion)  
+🤝 I'm currently collaborating on: [Facial Emotion Recognition](https://github.com/facial-emotion-recognition-service)  
 🌱 I’m currently learning: SwiftUI **(temporarily on ⏸️!)**  
 📫 How to reach me: Send me a message via [my LinkedIn profile](https://linkedin.com/in/faridt)  
 
-💭 Fun fact: I'm a polyglot and somewhat of a polymath. I've dabbled in photography, electronic music production, astronomy, philosophy and more. I also used to *love* movies. 🍿  
+💭 Fun facts: I'm a polyglot and somewhat of a polymath. I've dabbled in photography, electronic music production, astronomy, philosophy and more. I also love movies. 🍿 Check out my Letterboxd page (link below).  
 
 👨‍💻🏦👨‍🏫 In the past, I have worked as a software engineer/manager, a quantitative financial analyst/portfolio manager and an English teacher.  
 
