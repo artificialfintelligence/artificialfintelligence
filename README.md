@@ -1,16 +1,16 @@
-👋 Hi, I'm Farid. An engineer and data science developer from Canada 🇨🇦  
+👋 Hi, I'm Farid AKA Freddie. An engineer and data science developer from Canada 🇨🇦  
 🔭 I’m currently working on: [Building Transformer Models with Attention](https://github.com/artificialfintelligence/xformers_w_attn)  
 🤝 I'm currently collaborating on: [Facial Emotion Recognition](https://github.com/facial-emotion-recognition-service)  
-🌱 I’m currently learning: SwiftUI **(temporarily on ⏸️!)**  
+🌱 I’m currently learning: ~~SwiftUI **(temporarily on ⏸️!)**~~  dbt (data build tool)  
 📫 How to reach me: Send me a message via [my LinkedIn profile](https://linkedin.com/in/faridt)  
 
-💭 Fun facts: I'm a polyglot and somewhat of a polymath. I've dabbled in photography, electronic music production, astronomy, philosophy and more. I also love movies. 🍿 Check out my Letterboxd page (link below).  
+💭 Fun facts: I'm a polyglot and somewhat of a polymath. I've dabbled in photography, electronic music production, astronomy, philosophy and more.  
 
-👨‍💻🏦👨‍🏫 In the past, I have worked as a software engineer/manager, a quantitative financial analyst/portfolio manager and an English teacher.  
+👨‍💻🏦👨‍🏫 In the past, I've worked as a software engineer/manager, a quantitative financial analyst/portfolio manager and an English teacher.  
 
-🌎🌍🌏 I have been to 9 countries, 4 of which I have lived and/or worked in.  
+🌎🌍🌏 I've been to 9 countries, 4 of which I have lived and/or worked in.  
 
-⛷️🏂 I can ski and snowboard. (But I'm not really that good at either! 😅)  
+⛷️🏂 I ski and snowboard. (But I'm not really that good at either! 😅)  
 
 🏕️ I love nature. I go solo camping at least a couple of times every year.  
 
@@ -28,6 +28,9 @@ I ❤️ mathematics.
 - [CoRecursive](https://open.spotify.com/show/6XU1MRwzCfAXD07YHbpjNv?si=a929a33a3cee4529)
 - [Heavyweight](https://open.spotify.com/show/5c26B28vZMN8PG0Nppmn5G?si=f79de64cd4574950)
 - [Dan Carlin's Hardcore History](https://open.spotify.com/show/72qiPaoDRf8HkGKEChvG5q?si=1b862b1a03fc49fb)
+- [Hidden Brain](https://open.spotify.com/show/20Gf4IAauFrfj7RBkjcWxh?si=8db73e68b6e04afc)
+- [Programming Throwdown](https://open.spotify.com/show/274Z0vXSCYxddYGj2hLJ8r?si=77aae4705c514e3a)
+- [Machine Learning Street Talk (MLST)](https://open.spotify.com/show/02e6PZeIOdpmBGT9THuzwR?si=f48fcc32768b4728)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
