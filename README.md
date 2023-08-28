@@ -1,12 +1,11 @@
 👋 Hi, I'm Farid AKA Freddie. An engineer and data science developer from Canada 🇨🇦  
 🔭 I’m currently working on: [Building Transformer Models with Attention](https://github.com/artificialfintelligence/xformers_w_attn)  
-🤝 I'm currently collaborating on: [Facial Emotion Recognition](https://github.com/facial-emotion-recognition-service)  
-🌱 I’m currently learning: ~~SwiftUI **(temporarily on ⏸️!)**~~  dbt (data build tool)  
+🤝 I'm currently collaborating on: E2E [Facial Emotion Recognition Service](https://github.com/facial-emotion-recognition-service)  
 📫 How to reach me: Send me a message via [my LinkedIn profile](https://linkedin.com/in/faridt)  
 
-💭 Fun facts: I'm a polyglot and somewhat of a polymath. I've dabbled in photography, electronic music production, astronomy, philosophy and more.  
+💭 I live to learn. I've dabbled in photography, electronic music production, astronomy, philosophy, languages/linguistics and more.  
 
-👨‍💻🏦👨‍🏫 In the past, I've worked as a software engineer/manager, a quantitative financial analyst/portfolio manager and an English teacher.  
+👨‍💻🏦👨‍🏫 In the past, I've worked as a software engineer, a quantitative financial analyst and an English teacher.  
 
 🌎🌍🌏 I've been to 9 countries, 4 of which I have lived and/or worked in.  
 
@@ -31,6 +30,7 @@ I ❤️ mathematics.
 - [Hidden Brain](https://open.spotify.com/show/20Gf4IAauFrfj7RBkjcWxh?si=8db73e68b6e04afc)
 - [Programming Throwdown](https://open.spotify.com/show/274Z0vXSCYxddYGj2hLJ8r?si=77aae4705c514e3a)
 - [Machine Learning Street Talk (MLST)](https://open.spotify.com/show/02e6PZeIOdpmBGT9THuzwR?si=f48fcc32768b4728)
+- [The TWMIL AI Podcast](https://open.spotify.com/show/2sp5EL7s7EqxttxwwoJ3i7?si=ca0a67e3a24c4aa6)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
