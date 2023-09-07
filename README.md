@@ -7,7 +7,7 @@
 
 👨‍💻🏦👨‍🏫 In the past, I've worked as a software engineer, a quantitative financial analyst and an English teacher.  
 
-🌎🌍🌏 I've been to 9 countries, 4 of which I have lived and/or worked in.  
+🌎🌍🌏 I have lived and/or worked in 4 countries and traveled to another 5.  
 
 ⛷️🏂 I ski and snowboard. (But I'm not really that good at either! 😅)  
 
@@ -15,7 +15,7 @@
 
 🎮 I like board games as well as video games (esp. action/adventure/RPGs with good story and character development).  
 
-💬 I'm a native English speaker and فارسی نیز زبان مادری‌ام است و 日本語も良く話せます。そして　je suis en train d'apprendre le français maintenant.  
+💬 I'm a native English speaker and فارسی زبان مادری‌ام است و 日本語も良く話せます。そして　je suis en train d'apprendre le français maintenant.  
 
 I ❤️ mathematics.
 
