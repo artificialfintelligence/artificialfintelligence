@@ -1,6 +1,5 @@
 👋 Hi, I'm Farid AKA Freddie. An engineer and data science developer from Canada 🇨🇦  
-🔭 I’m currently working on: [Building Transformer Models with Attention](https://github.com/artificialfintelligence/xformers_w_attn)  
-🤝 I'm currently collaborating on: E2E [Facial Emotion Recognition Service](https://github.com/facial-emotion-recognition-service)  
+
 📫 How to reach me: Send me a message via [my LinkedIn profile](https://linkedin.com/in/faridt)  
 
 💭 I live to learn. I've dabbled in photography, electronic music production, astronomy, philosophy, languages/linguistics and more.  
@@ -26,8 +25,6 @@ I ❤️ mathematics.
 - [3Blue1Brown](https://open.spotify.com/show/74ZzyhJx8NL5OBmv2RWXnB?si=223add817fa747bc)
 - [CoRecursive](https://open.spotify.com/show/6XU1MRwzCfAXD07YHbpjNv?si=a929a33a3cee4529)
 - [Heavyweight](https://open.spotify.com/show/5c26B28vZMN8PG0Nppmn5G?si=f79de64cd4574950)
-- [Dan Carlin's Hardcore History](https://open.spotify.com/show/72qiPaoDRf8HkGKEChvG5q?si=1b862b1a03fc49fb)
-- [Hidden Brain](https://open.spotify.com/show/20Gf4IAauFrfj7RBkjcWxh?si=8db73e68b6e04afc)
 - [Programming Throwdown](https://open.spotify.com/show/274Z0vXSCYxddYGj2hLJ8r?si=77aae4705c514e3a)
 - [Machine Learning Street Talk (MLST)](https://open.spotify.com/show/02e6PZeIOdpmBGT9THuzwR?si=f48fcc32768b4728)
 - [The TWMIL AI Podcast](https://open.spotify.com/show/2sp5EL7s7EqxttxwwoJ3i7?si=ca0a67e3a24c4aa6)
