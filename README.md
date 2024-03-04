@@ -1,22 +1,22 @@
-👋 Hi, I'm Farid AKA Freddie. An engineer and data science developer from Canada 🇨🇦  
+👋 Hi, I'm Farid AKA Freddie. A computer engineer and data science professional from Canada 🇨🇦  
 
 📫 How to reach me: Send me a message via [my LinkedIn profile](https://linkedin.com/in/faridt)  
 
-💭 I live to learn. I've dabbled in photography, electronic music production, astronomy, philosophy, languages/linguistics and more.  
-
 👨‍💻🏦👨‍🏫 In the past, I've worked as a software engineer, a quantitative financial analyst and an English teacher.  
 
-🌎🌍🌏 I have lived and/or worked in 4 countries and traveled to another 5.  
+🤖 Recently I got into microcontroller and microprocessor DIY projects (Arduino, Raspberry Pi) and I'm loving it! I'm thinking of getting a 3D printer at some point, too.  
 
-⛷️🏂 I ski and snowboard. (But I'm not really that good at either! 😅)  
-
-🏕️ I love nature. I go solo camping at least a couple of times every year.  
-
-🎮 I like board games as well as video games (esp. action/adventure/RPGs with good story and character development).  
+💭 I live to learn. I've dabbled in photography, electronic music production, astronomy, philosophy, languages/linguistics and more.  
 
 💬 I'm a native English speaker and فارسی زبان مادری‌ام است و 日本語も良く話せます。そして　je suis en train d'apprendre le français maintenant.  
 
-I ❤️ mathematics.
+🌎🌍🌏 I have lived and/or worked in 4 countries and traveled to another 5.  
+
+🏕️ I love nature. I enjoy solo camping and going for walks and hikes in nature.  
+
+🎮 I like board games as well as video games as an art form. (But few video games pass the "art" threshold).  
+
+︙ Other things I like: I ❤️ mathematics. And I ❤️ film. (Though, again, fewer and fewer movies pass the "art" threshold these days. Also sadly I don't really have time to watch movies anymore.)
 
 🎙️ Some podcasts I follow and recommend:
 - [Lex Fridman](https://open.spotify.com/show/2MAi0BvDc6GTFvKFPXnkCL?si=bcb8e3c7f16b43c3)
@@ -27,7 +27,6 @@ I ❤️ mathematics.
 - [Heavyweight](https://open.spotify.com/show/5c26B28vZMN8PG0Nppmn5G?si=f79de64cd4574950)
 - [Programming Throwdown](https://open.spotify.com/show/274Z0vXSCYxddYGj2hLJ8r?si=77aae4705c514e3a)
 - [Machine Learning Street Talk (MLST)](https://open.spotify.com/show/02e6PZeIOdpmBGT9THuzwR?si=f48fcc32768b4728)
-- [The TWMIL AI Podcast](https://open.spotify.com/show/2sp5EL7s7EqxttxwwoJ3i7?si=ca0a67e3a24c4aa6)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
