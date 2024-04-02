@@ -7,7 +7,7 @@
 🤖 I recently got into microcontroller and microprocessor DIY projects (Arduino, Raspberry Pi) and I'm loving it! I'm thinking of getting a 3D printer at some point, too.  
 🏕️ I love nature. I enjoy solo camping and going for walks/hikes.  
 🎮 I like board games as well as video games as an art form. (But few video games pass the "art" threshold).  
-💜 Other things I like: I love mathematics, I like books and audio books, and I love film. (Though, again, fewer and fewer movies pass the "art" threshold these days. Also sadly I don't really have time to watch movies anymore.)  
+💜 Other things I like: I love mathematics, books and audio books, and film. (Though, again, fewer and fewer movies pass the "art" threshold these days. Also sadly I don't really have time to watch movies anymore.)  
 
 ### Recommendations  
 My favourite podcasts and YouTube channels:  
