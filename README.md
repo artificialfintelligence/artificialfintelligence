@@ -1,10 +1,11 @@
 👋 Hi, I'm Farid AKA Freddie. A computer engineer and Data Science professional from Canada 🇨🇦  
 📫 How to reach me: Send me a message via [my LinkedIn profile](https://linkedin.com/in/faridt)  
 👨‍💻🏦👨‍🏫 In the past, I've worked as a software engineer, a quantitative financial analyst and an English teacher.  
+💻 These days I'm busy working as a freelancer on a numberof AI/ML projects, including an open-source LLM project, a personal project involving CNNs, and content authoring for a major MOOC provider.  
 🌎🌍🌏 I have lived and/or worked in 4 countries and traveled to another 5.  
 💭 I live to learn. I've dabbled in photography, electronic music production, astronomy, philosophy, languages/linguistics and more.  
 💬 I'm a native English speaker and فارسی زبان مادری‌ام است و 日本語も良く話せます。そして　je suis en train d'apprendre le français maintenant.  
-🤖 I recently got into microcontroller and microprocessor DIY projects (Arduino, Raspberry Pi) and I'm loving it! I'm thinking of getting a 3D printer at some point, too.  
+🤖 I recently got into microcontroller and microprocessor DIY projects (Arduino, Raspberry Pi) and I'm loving it! I'm tinkering and thinking of getting a 3D printer at some point, too.  
 🏕️ I love nature. I enjoy solo camping and going for walks/hikes.  
 🎮 I like board games as well as video games as an art form. (But few video games pass the "art" threshold).  
 💜 Other things I like: I love mathematics, books and audio books, and film. (Though, again, fewer and fewer movies pass the "art" threshold these days. Also sadly I don't really have time to watch movies anymore.)  
