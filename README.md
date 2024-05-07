@@ -1,7 +1,7 @@
 👋 Hi, I'm Farid AKA Freddie. A computer engineer and Data Science professional from Canada 🇨🇦  
 📫 How to reach me: Send me a message via [my LinkedIn profile](https://linkedin.com/in/faridt)  
 👨‍💻🏦👨‍🏫 In the past, I've worked as a software engineer, a quantitative financial analyst and an English teacher.  
-💻 These days I'm busy working as a freelancer on a numberof AI/ML projects, including an open-source LLM project, a personal project involving CNNs, and content authoring for a major MOOC provider.  
+💻 These days I'm busy working as a freelancer on a number of AI/ML projects, including an open-source LLM project, a personal project involving CNNs, and content authoring for a major MOOC provider.  
 🌎🌍🌏 I have lived and/or worked in 4 countries and traveled to another 5.  
 💭 I live to learn. I've dabbled in photography, electronic music production, astronomy, philosophy, languages/linguistics and more.  
 💬 I'm a native English speaker and فارسی زبان مادری‌ام است و 日本語も良く話せます。そして　je suis en train d'apprendre le français maintenant.  
